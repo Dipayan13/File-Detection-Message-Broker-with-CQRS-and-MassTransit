@@ -28,7 +28,6 @@ The system also provides a controller endpoint to download the inserted files by
 - **Entity Framework Core** for ORM with a code-first approach
 - **CQRS pattern** for command-query separation
 - **Base64** encoding for file storage and retrieval
-- **Quartz.NET** for scheduling background jobs (optional)
 
 ## Message Structure
 
