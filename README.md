@@ -37,14 +37,19 @@ When a new file is detected and processed, the following message is generated an
 ### `DocumentReceivedMessage`
 
 ```json
-{
-  "DocumentId": "GUID",
-  "Source": "File path or description",
-  "DocumentSrc": "Base64 content",
+Context
+    {
   "TimeStamp": "DateTime",
   "CorrelationId": "GUID",
   "SourceServiceName": "Document Monitoring Service",
   "Domain": "Your domain",
   "CompanyName": "Your company"
-}
+    }
+ReceivedMessage
+    {
+  "DocumentId": "GUID",
+  "Source": "File path or description",
+  "DocumentSrc": "Download Endpoint",
+    }
+
 
