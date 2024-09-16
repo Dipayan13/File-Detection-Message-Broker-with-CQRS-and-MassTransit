@@ -11,7 +11,7 @@ The system also provides a controller endpoint to download the inserted files by
 
 - Monitors a specified folder for new files.
 - Detects and processes newly added files.
-- Generates a unique **GUID** (Correlation ID) for each file.
+- Generates a unique **GUID** and a **Correlation ID** for each file.
 - Converts the file content to **Base64**.
 - Inserts file information (GUID, Base64, filename, timestamp) into **PostgreSQL**.
 - Provides an API endpoint to download the stored files.
