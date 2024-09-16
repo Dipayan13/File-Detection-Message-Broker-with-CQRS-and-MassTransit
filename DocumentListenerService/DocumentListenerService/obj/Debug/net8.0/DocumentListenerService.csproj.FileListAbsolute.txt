@@ -1,0 +1,246 @@
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\appsettings.json
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\DocumentListenerService.exe
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\DocumentListenerService.deps.json
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\DocumentListenerService.runtimeconfig.json
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\DocumentListenerService.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\DocumentListenerService.pdb
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\MassTransit.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\MassTransit.Abstractions.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\MassTransit.RabbitMqTransport.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\MediatR.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\Npgsql.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\System.IO.Abstractions.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\TestableIO.System.IO.Abstractions.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\TestableIO.System.IO.Abstractions.Wrappers.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\DMS.DomainEvents.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\DocumentListener.Data.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\DocumentListener.Domain.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\DocumentListener.Service.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\DMS.DomainEvents.pdb
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\DocumentListener.Data.pdb
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\DocumentListener.Domain.pdb
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\DocumentListener.Service.pdb
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\obj\Debug\net8.0\DocumentListenerService.csproj.AssemblyReference.cache
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\obj\Debug\net8.0\DocumentListenerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\obj\Debug\net8.0\DocumentListenerService.AssemblyInfoInputs.cache
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\obj\Debug\net8.0\DocumentListenerService.AssemblyInfo.cs
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\obj\Debug\net8.0\DocumentListenerService.csproj.CoreCompileInputs.cache
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\obj\Debug\net8.0\DocumentListenerService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\obj\Debug\net8.0\DocumentListenerService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\obj\Debug\net8.0\staticwebassets\msbuild.DocumentListenerService.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\obj\Debug\net8.0\staticwebassets\msbuild.build.DocumentListenerService.props
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DocumentListenerService.props
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DocumentListenerService.props
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\obj\Debug\net8.0\scopedcss\bundle\DocumentListenerService.styles.css
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\obj\Debug\net8.0\Document.084E7C09.Up2Date
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\obj\Debug\net8.0\DocumentListenerService.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\obj\Debug\net8.0\refint\DocumentListenerService.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\obj\Debug\net8.0\DocumentListenerService.pdb
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\obj\Debug\net8.0\DocumentListenerService.genruntimeconfig.cache
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\obj\Debug\net8.0\ref\DocumentListenerService.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\Humanizer.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\appsettings.Development.json
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\appsettings.json
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\DocumentListenerService.exe
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\DocumentListenerService.deps.json
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\DocumentListenerService.runtimeconfig.json
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\DocumentListenerService.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\DocumentListenerService.pdb
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\Humanizer.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\MassTransit.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\MassTransit.Abstractions.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\MassTransit.RabbitMqTransport.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\MediatR.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\MediatR.Contracts.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\Npgsql.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\RabbitMQ.Client.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\System.CodeDom.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\System.IO.Abstractions.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\System.Text.Json.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\TestableIO.System.IO.Abstractions.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\TestableIO.System.IO.Abstractions.Wrappers.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\DMS.DomainEvents.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\DocumentListener.Data.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\DocumentListener.Domain.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\DocumentListener.Service.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\DMS.DomainEvents.pdb
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\DocumentListener.Data.pdb
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\DocumentListener.Domain.pdb
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\bin\Debug\net8.0\DocumentListener.Service.pdb
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\obj\Debug\net8.0\DocumentListenerService.csproj.AssemblyReference.cache
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\obj\Debug\net8.0\DocumentListenerService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\obj\Debug\net8.0\DocumentListenerService.AssemblyInfoInputs.cache
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\obj\Debug\net8.0\DocumentListenerService.AssemblyInfo.cs
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\obj\Debug\net8.0\DocumentListenerService.csproj.CoreCompileInputs.cache
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\obj\Debug\net8.0\DocumentListenerService.MvcApplicationPartsAssemblyInfo.cs
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\obj\Debug\net8.0\DocumentListenerService.MvcApplicationPartsAssemblyInfo.cache
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\obj\Debug\net8.0\staticwebassets.build.json
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\obj\Debug\net8.0\staticwebassets.development.json
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\obj\Debug\net8.0\staticwebassets\msbuild.DocumentListenerService.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\obj\Debug\net8.0\staticwebassets\msbuild.build.DocumentListenerService.props
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DocumentListenerService.props
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DocumentListenerService.props
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\obj\Debug\net8.0\scopedcss\bundle\DocumentListenerService.styles.css
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\obj\Debug\net8.0\Document.084E7C09.Up2Date
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\obj\Debug\net8.0\DocumentListenerService.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\obj\Debug\net8.0\refint\DocumentListenerService.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\obj\Debug\net8.0\DocumentListenerService.pdb
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\obj\Debug\net8.0\DocumentListenerService.genruntimeconfig.cache
+D:\Document Listener Service\DocumentListenerService\DocumentListenerService\obj\Debug\net8.0\ref\DocumentListenerService.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "osi/6PU4lYyvogSd8IsMNnJHaY0knccEBZPqiUqAsQY=",
+  "Source": "DocumentListenerService",
+  "BasePath": "_content/DocumentListenerService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

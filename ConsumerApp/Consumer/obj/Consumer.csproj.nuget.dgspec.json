@@ -1,0 +1,164 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Document Listener Service\\ConsumerApp\\Consumer\\Consumer.csproj": {}
+  },
+  "projects": {
+    "D:\\Document Listener Service\\ConsumerApp\\Consumer\\Consumer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Document Listener Service\\ConsumerApp\\Consumer\\Consumer.csproj",
+        "projectName": "Consumer",
+        "projectPath": "D:\\Document Listener Service\\ConsumerApp\\Consumer\\Consumer.csproj",
+        "packagesPath": "C:\\Users\\DipayanBhattacharjee\\.nuget\\packages\\",
+        "outputPath": "D:\\Document Listener Service\\ConsumerApp\\Consumer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\DipayanBhattacharjee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://packagesource": {},
+          "https://pkgs.dev.azure.com/IBSFintechCloud/_packaging/IntreaxInvestmentTest/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Document Listener Service\\DMS.Shared\\DMS.DomainEvents\\DMS.DomainEvents.csproj": {
+                "projectPath": "D:\\Document Listener Service\\DMS.Shared\\DMS.DomainEvents\\DMS.DomainEvents.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MassTransit": {
+              "target": "Package",
+              "version": "[8.2.5, )"
+            },
+            "MassTransit.RabbitMQ": {
+              "target": "Package",
+              "version": "[8.2.5, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Document Listener Service\\DMS.Shared\\DMS.DomainEvents\\DMS.DomainEvents.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Document Listener Service\\DMS.Shared\\DMS.DomainEvents\\DMS.DomainEvents.csproj",
+        "projectName": "DMS.DomainEvents",
+        "projectPath": "D:\\Document Listener Service\\DMS.Shared\\DMS.DomainEvents\\DMS.DomainEvents.csproj",
+        "packagesPath": "C:\\Users\\DipayanBhattacharjee\\.nuget\\packages\\",
+        "outputPath": "D:\\Document Listener Service\\DMS.Shared\\DMS.DomainEvents\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\DipayanBhattacharjee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://packagesource": {},
+          "https://pkgs.dev.azure.com/IBSFintechCloud/_packaging/IntreaxInvestmentTest/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

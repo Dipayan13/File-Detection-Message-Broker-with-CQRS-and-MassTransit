@@ -1,0 +1,33 @@
+C:\Users\DipayanBhattacharjee\source\repos\FolderMonitorService\DMS.Shared\DMS.DomainEvents\bin\Debug\net8.0\DMS.DomainEvents.deps.json
+C:\Users\DipayanBhattacharjee\source\repos\FolderMonitorService\DMS.Shared\DMS.DomainEvents\bin\Debug\net8.0\DMS.DomainEvents.dll
+C:\Users\DipayanBhattacharjee\source\repos\FolderMonitorService\DMS.Shared\DMS.DomainEvents\bin\Debug\net8.0\DMS.DomainEvents.pdb
+C:\Users\DipayanBhattacharjee\source\repos\FolderMonitorService\DMS.Shared\DMS.DomainEvents\obj\Debug\net8.0\DMS.DomainEvents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DipayanBhattacharjee\source\repos\FolderMonitorService\DMS.Shared\DMS.DomainEvents\obj\Debug\net8.0\DMS.DomainEvents.AssemblyInfoInputs.cache
+C:\Users\DipayanBhattacharjee\source\repos\FolderMonitorService\DMS.Shared\DMS.DomainEvents\obj\Debug\net8.0\DMS.DomainEvents.AssemblyInfo.cs
+C:\Users\DipayanBhattacharjee\source\repos\FolderMonitorService\DMS.Shared\DMS.DomainEvents\obj\Debug\net8.0\DMS.DomainEvents.csproj.CoreCompileInputs.cache
+C:\Users\DipayanBhattacharjee\source\repos\FolderMonitorService\DMS.Shared\DMS.DomainEvents\obj\Debug\net8.0\DMS.DomainEvents.dll
+C:\Users\DipayanBhattacharjee\source\repos\FolderMonitorService\DMS.Shared\DMS.DomainEvents\obj\Debug\net8.0\refint\DMS.DomainEvents.dll
+C:\Users\DipayanBhattacharjee\source\repos\FolderMonitorService\DMS.Shared\DMS.DomainEvents\obj\Debug\net8.0\DMS.DomainEvents.pdb
+C:\Users\DipayanBhattacharjee\source\repos\FolderMonitorService\DMS.Shared\DMS.DomainEvents\obj\Debug\net8.0\ref\DMS.DomainEvents.dll
+C:\Users\DipayanBhattacharjee\source\repos\DMS.Shared\DMS.DomainEvents\bin\Debug\net8.0\DMS.DomainEvents.deps.json
+C:\Users\DipayanBhattacharjee\source\repos\DMS.Shared\DMS.DomainEvents\bin\Debug\net8.0\DMS.DomainEvents.dll
+C:\Users\DipayanBhattacharjee\source\repos\DMS.Shared\DMS.DomainEvents\bin\Debug\net8.0\DMS.DomainEvents.pdb
+C:\Users\DipayanBhattacharjee\source\repos\DMS.Shared\DMS.DomainEvents\obj\Debug\net8.0\DMS.DomainEvents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DipayanBhattacharjee\source\repos\DMS.Shared\DMS.DomainEvents\obj\Debug\net8.0\DMS.DomainEvents.AssemblyInfoInputs.cache
+C:\Users\DipayanBhattacharjee\source\repos\DMS.Shared\DMS.DomainEvents\obj\Debug\net8.0\DMS.DomainEvents.AssemblyInfo.cs
+C:\Users\DipayanBhattacharjee\source\repos\DMS.Shared\DMS.DomainEvents\obj\Debug\net8.0\DMS.DomainEvents.csproj.CoreCompileInputs.cache
+C:\Users\DipayanBhattacharjee\source\repos\DMS.Shared\DMS.DomainEvents\obj\Debug\net8.0\DMS.DomainEvents.dll
+C:\Users\DipayanBhattacharjee\source\repos\DMS.Shared\DMS.DomainEvents\obj\Debug\net8.0\refint\DMS.DomainEvents.dll
+C:\Users\DipayanBhattacharjee\source\repos\DMS.Shared\DMS.DomainEvents\obj\Debug\net8.0\DMS.DomainEvents.pdb
+C:\Users\DipayanBhattacharjee\source\repos\DMS.Shared\DMS.DomainEvents\obj\Debug\net8.0\ref\DMS.DomainEvents.dll
+D:\Document Listener Service\DMS.Shared\DMS.DomainEvents\bin\Debug\net8.0\DMS.DomainEvents.deps.json
+D:\Document Listener Service\DMS.Shared\DMS.DomainEvents\bin\Debug\net8.0\DMS.DomainEvents.dll
+D:\Document Listener Service\DMS.Shared\DMS.DomainEvents\bin\Debug\net8.0\DMS.DomainEvents.pdb
+D:\Document Listener Service\DMS.Shared\DMS.DomainEvents\obj\Debug\net8.0\DMS.DomainEvents.GeneratedMSBuildEditorConfig.editorconfig
+D:\Document Listener Service\DMS.Shared\DMS.DomainEvents\obj\Debug\net8.0\DMS.DomainEvents.AssemblyInfoInputs.cache
+D:\Document Listener Service\DMS.Shared\DMS.DomainEvents\obj\Debug\net8.0\DMS.DomainEvents.AssemblyInfo.cs
+D:\Document Listener Service\DMS.Shared\DMS.DomainEvents\obj\Debug\net8.0\DMS.DomainEvents.csproj.CoreCompileInputs.cache
+D:\Document Listener Service\DMS.Shared\DMS.DomainEvents\obj\Debug\net8.0\DMS.DomainEvents.dll
+D:\Document Listener Service\DMS.Shared\DMS.DomainEvents\obj\Debug\net8.0\refint\DMS.DomainEvents.dll
+D:\Document Listener Service\DMS.Shared\DMS.DomainEvents\obj\Debug\net8.0\DMS.DomainEvents.pdb
+D:\Document Listener Service\DMS.Shared\DMS.DomainEvents\obj\Debug\net8.0\ref\DMS.DomainEvents.dll

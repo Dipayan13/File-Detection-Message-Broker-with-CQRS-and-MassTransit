@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Document Listener Service\\DocumentListenerService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CFA5156-E9B7-41F6-AFDA-0E314F1481B3}|DocumentListenerService\\DocumentListenerService.csproj|d:\\document listener service\\documentlistenerservice\\documentlistenerservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8CFA5156-E9B7-41F6-AFDA-0E314F1481B3}|DocumentListenerService\\DocumentListenerService.csproj|solutionrelative:documentlistenerservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28248C62-567F-4D86-844B-0348A4A2F90C}|..\\DMS.Shared\\DMS.DomainEvents\\DMS.DomainEvents.csproj|d:\\document listener service\\dms.shared\\dms.domainevents\\events\\documentreceived.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CFA5156-E9B7-41F6-AFDA-0E314F1481B3}|DocumentListenerService\\DocumentListenerService.csproj|d:\\document listener service\\documentlistenerservice\\documentlistenerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CFA5156-E9B7-41F6-AFDA-0E314F1481B3}|DocumentListenerService\\DocumentListenerService.csproj|solutionrelative:documentlistenerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CFA5156-E9B7-41F6-AFDA-0E314F1481B3}|DocumentListenerService\\DocumentListenerService.csproj|d:\\document listener service\\documentlistenerservice\\documentlistenerservice\\controllers\\filedownloadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CFA5156-E9B7-41F6-AFDA-0E314F1481B3}|DocumentListenerService\\DocumentListenerService.csproj|solutionrelative:documentlistenerservice\\controllers\\filedownloadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89AA5281-DC6F-4FF9-B8DC-75C1D81EF039}|DocumentListener.Service\\DocumentListener.Service.csproj|d:\\document listener service\\documentlistenerservice\\documentlistener.service\\services\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89AA5281-DC6F-4FF9-B8DC-75C1D81EF039}|DocumentListener.Service\\DocumentListener.Service.csproj|solutionrelative:documentlistener.service\\services\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89AA5281-DC6F-4FF9-B8DC-75C1D81EF039}|DocumentListener.Service\\DocumentListener.Service.csproj|d:\\document listener service\\documentlistenerservice\\documentlistener.service\\services\\filesourceidentifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89AA5281-DC6F-4FF9-B8DC-75C1D81EF039}|DocumentListener.Service\\DocumentListener.Service.csproj|solutionrelative:documentlistener.service\\services\\filesourceidentifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89AA5281-DC6F-4FF9-B8DC-75C1D81EF039}|DocumentListener.Service\\DocumentListener.Service.csproj|d:\\document listener service\\documentlistenerservice\\documentlistener.service\\services\\documentidgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89AA5281-DC6F-4FF9-B8DC-75C1D81EF039}|DocumentListener.Service\\DocumentListener.Service.csproj|solutionrelative:documentlistener.service\\services\\documentidgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89AA5281-DC6F-4FF9-B8DC-75C1D81EF039}|DocumentListener.Service\\DocumentListener.Service.csproj|d:\\document listener service\\documentlistenerservice\\documentlistener.service\\services\\correlationidgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89AA5281-DC6F-4FF9-B8DC-75C1D81EF039}|DocumentListener.Service\\DocumentListener.Service.csproj|solutionrelative:documentlistener.service\\services\\correlationidgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBAE8AAD-31B1-42EB-AF89-A1E9E6047383}|DocumentListener.Domain\\DocumentListener.Domain.csproj|d:\\document listener service\\documentlistenerservice\\documentlistener.domain\\models\\documentrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBAE8AAD-31B1-42EB-AF89-A1E9E6047383}|DocumentListener.Domain\\DocumentListener.Domain.csproj|solutionrelative:documentlistener.domain\\models\\documentrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBAE8AAD-31B1-42EB-AF89-A1E9E6047383}|DocumentListener.Domain\\DocumentListener.Domain.csproj|d:\\document listener service\\documentlistenerservice\\documentlistener.domain\\models\\servicesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBAE8AAD-31B1-42EB-AF89-A1E9E6047383}|DocumentListener.Domain\\DocumentListener.Domain.csproj|solutionrelative:documentlistener.domain\\models\\servicesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4109FEE8-3133-4D6E-A429-E03A0D258EAA}|DocumentListener.Data\\DocumentListener.Data.csproj|d:\\document listener service\\documentlistenerservice\\documentlistener.data\\queries\\getdocumentbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4109FEE8-3133-4D6E-A429-E03A0D258EAA}|DocumentListener.Data\\DocumentListener.Data.csproj|solutionrelative:documentlistener.data\\queries\\getdocumentbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4109FEE8-3133-4D6E-A429-E03A0D258EAA}|DocumentListener.Data\\DocumentListener.Data.csproj|d:\\document listener service\\documentlistenerservice\\documentlistener.data\\migrations\\documentdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4109FEE8-3133-4D6E-A429-E03A0D258EAA}|DocumentListener.Data\\DocumentListener.Data.csproj|solutionrelative:documentlistener.data\\migrations\\documentdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4109FEE8-3133-4D6E-A429-E03A0D258EAA}|DocumentListener.Data\\DocumentListener.Data.csproj|d:\\document listener service\\documentlistenerservice\\documentlistener.data\\migrations\\documentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4109FEE8-3133-4D6E-A429-E03A0D258EAA}|DocumentListener.Data\\DocumentListener.Data.csproj|solutionrelative:documentlistener.data\\migrations\\documentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DocumentReceived.cs",
+              "DocumentMoniker": "D:\\Document Listener Service\\DMS.Shared\\DMS.DomainEvents\\Events\\DocumentReceived.cs",
+              "RelativeDocumentMoniker": "..\\DMS.Shared\\DMS.DomainEvents\\Events\\DocumentReceived.cs",
+              "ToolTip": "D:\\Document Listener Service\\DMS.Shared\\DMS.DomainEvents\\Events\\DocumentReceived.cs",
+              "RelativeToolTip": "..\\DMS.Shared\\DMS.DomainEvents\\Events\\DocumentReceived.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T17:16:59.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Document Listener Service\\DocumentListenerService\\DocumentListenerService\\appsettings.json",
+              "RelativeDocumentMoniker": "DocumentListenerService\\appsettings.json",
+              "ToolTip": "D:\\Document Listener Service\\DocumentListenerService\\DocumentListenerService\\appsettings.json",
+              "RelativeToolTip": "DocumentListenerService\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-16T17:16:25.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Document Listener Service\\DocumentListenerService\\DocumentListenerService\\Program.cs",
+              "RelativeDocumentMoniker": "DocumentListenerService\\Program.cs",
+              "ToolTip": "D:\\Document Listener Service\\DocumentListenerService\\DocumentListenerService\\Program.cs",
+              "RelativeToolTip": "DocumentListenerService\\Program.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T17:16:10.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileDownloadController.cs",
+              "DocumentMoniker": "D:\\Document Listener Service\\DocumentListenerService\\DocumentListenerService\\Controllers\\FileDownloadController.cs",
+              "RelativeDocumentMoniker": "DocumentListenerService\\Controllers\\FileDownloadController.cs",
+              "ToolTip": "D:\\Document Listener Service\\DocumentListenerService\\DocumentListenerService\\Controllers\\FileDownloadController.cs",
+              "RelativeToolTip": "DocumentListenerService\\Controllers\\FileDownloadController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T17:16:00.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "D:\\Document Listener Service\\DocumentListenerService\\DocumentListener.Service\\Services\\Worker.cs",
+              "RelativeDocumentMoniker": "DocumentListener.Service\\Services\\Worker.cs",
+              "ToolTip": "D:\\Document Listener Service\\DocumentListenerService\\DocumentListener.Service\\Services\\Worker.cs",
+              "RelativeToolTip": "DocumentListener.Service\\Services\\Worker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T17:15:42.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileSourceIdentifier.cs",
+              "DocumentMoniker": "D:\\Document Listener Service\\DocumentListenerService\\DocumentListener.Service\\Services\\FileSourceIdentifier.cs",
+              "RelativeDocumentMoniker": "DocumentListener.Service\\Services\\FileSourceIdentifier.cs",
+              "ToolTip": "D:\\Document Listener Service\\DocumentListenerService\\DocumentListener.Service\\Services\\FileSourceIdentifier.cs",
+              "RelativeToolTip": "DocumentListener.Service\\Services\\FileSourceIdentifier.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T17:15:38.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DocumentIdGenerator.cs",
+              "DocumentMoniker": "D:\\Document Listener Service\\DocumentListenerService\\DocumentListener.Service\\Services\\DocumentIdGenerator.cs",
+              "RelativeDocumentMoniker": "DocumentListener.Service\\Services\\DocumentIdGenerator.cs",
+              "ToolTip": "D:\\Document Listener Service\\DocumentListenerService\\DocumentListener.Service\\Services\\DocumentIdGenerator.cs",
+              "RelativeToolTip": "DocumentListener.Service\\Services\\DocumentIdGenerator.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T17:15:34.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CorrelationIdGenerator.cs",
+              "DocumentMoniker": "D:\\Document Listener Service\\DocumentListenerService\\DocumentListener.Service\\Services\\CorrelationIdGenerator.cs",
+              "RelativeDocumentMoniker": "DocumentListener.Service\\Services\\CorrelationIdGenerator.cs",
+              "ToolTip": "D:\\Document Listener Service\\DocumentListenerService\\DocumentListener.Service\\Services\\CorrelationIdGenerator.cs",
+              "RelativeToolTip": "DocumentListener.Service\\Services\\CorrelationIdGenerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T17:15:30.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ServiceSettings.cs",
+              "DocumentMoniker": "D:\\Document Listener Service\\DocumentListenerService\\DocumentListener.Domain\\Models\\ServiceSettings.cs",
+              "RelativeDocumentMoniker": "DocumentListener.Domain\\Models\\ServiceSettings.cs",
+              "ToolTip": "D:\\Document Listener Service\\DocumentListenerService\\DocumentListener.Domain\\Models\\ServiceSettings.cs",
+              "RelativeToolTip": "DocumentListener.Domain\\Models\\ServiceSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T17:15:22.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DocumentRecord.cs",
+              "DocumentMoniker": "D:\\Document Listener Service\\DocumentListenerService\\DocumentListener.Domain\\Models\\DocumentRecord.cs",
+              "RelativeDocumentMoniker": "DocumentListener.Domain\\Models\\DocumentRecord.cs",
+              "ToolTip": "D:\\Document Listener Service\\DocumentListenerService\\DocumentListener.Domain\\Models\\DocumentRecord.cs",
+              "RelativeToolTip": "DocumentListener.Domain\\Models\\DocumentRecord.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T17:15:11.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetDocumentByIdQuery.cs",
+              "DocumentMoniker": "D:\\Document Listener Service\\DocumentListenerService\\DocumentListener.Data\\Queries\\GetDocumentByIdQuery.cs",
+              "RelativeDocumentMoniker": "DocumentListener.Data\\Queries\\GetDocumentByIdQuery.cs",
+              "ToolTip": "D:\\Document Listener Service\\DocumentListenerService\\DocumentListener.Data\\Queries\\GetDocumentByIdQuery.cs",
+              "RelativeToolTip": "DocumentListener.Data\\Queries\\GetDocumentByIdQuery.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T17:15:02.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DocumentDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Document Listener Service\\DocumentListenerService\\DocumentListener.Data\\Migrations\\DocumentDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "DocumentListener.Data\\Migrations\\DocumentDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\Document Listener Service\\DocumentListenerService\\DocumentListener.Data\\Migrations\\DocumentDbContextModelSnapshot.cs",
+              "RelativeToolTip": "DocumentListener.Data\\Migrations\\DocumentDbContextModelSnapshot.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T17:14:56.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DocumentDbContext.cs",
+              "DocumentMoniker": "D:\\Document Listener Service\\DocumentListenerService\\DocumentListener.Data\\Migrations\\DocumentDbContext.cs",
+              "RelativeDocumentMoniker": "DocumentListener.Data\\Migrations\\DocumentDbContext.cs",
+              "ToolTip": "D:\\Document Listener Service\\DocumentListenerService\\DocumentListener.Data\\Migrations\\DocumentDbContext.cs",
+              "RelativeToolTip": "DocumentListener.Data\\Migrations\\DocumentDbContext.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAzwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T17:14:34.107Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1353,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

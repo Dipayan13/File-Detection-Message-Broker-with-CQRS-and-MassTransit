@@ -1,0 +1,6 @@
+@DocumentListenerService_HostAddress = http://localhost:5074
+
+GET {{DocumentListenerService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Document Listener Service\\ConsumerApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{507FF1EF-C8CA-4B2E-B56E-4CEA5A6F597A}|Consumer\\Consumer.csproj|d:\\document listener service\\consumerapp\\consumer\\documentreceivedconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{507FF1EF-C8CA-4B2E-B56E-4CEA5A6F597A}|Consumer\\Consumer.csproj|solutionrelative:consumer\\documentreceivedconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{507FF1EF-C8CA-4B2E-B56E-4CEA5A6F597A}|Consumer\\Consumer.csproj|d:\\document listener service\\consumerapp\\consumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{507FF1EF-C8CA-4B2E-B56E-4CEA5A6F597A}|Consumer\\Consumer.csproj|solutionrelative:consumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{507FF1EF-C8CA-4B2E-B56E-4CEA5A6F597A}|Consumer\\Consumer.csproj|d:\\document listener service\\consumerapp\\consumer\\consumer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{507FF1EF-C8CA-4B2E-B56E-4CEA5A6F597A}|Consumer\\Consumer.csproj|solutionrelative:consumer\\consumer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DipayanBhattacharjee\\source\\repos\\FolderMonitorService\\DMS.Shared\\DMS.DomainEvents\\Events\\DocumentReceived.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DocumentReceivedConsumer.cs",
+              "DocumentMoniker": "D:\\Document Listener Service\\ConsumerApp\\Consumer\\DocumentReceivedConsumer.cs",
+              "RelativeDocumentMoniker": "Consumer\\DocumentReceivedConsumer.cs",
+              "ToolTip": "D:\\Document Listener Service\\ConsumerApp\\Consumer\\DocumentReceivedConsumer.cs",
+              "RelativeToolTip": "Consumer\\DocumentReceivedConsumer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T12:00:33.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DocumentReceived.cs",
+              "DocumentMoniker": "C:\\Users\\DipayanBhattacharjee\\source\\repos\\FolderMonitorService\\DMS.Shared\\DMS.DomainEvents\\Events\\DocumentReceived.cs",
+              "ToolTip": "C:\\Users\\DipayanBhattacharjee\\source\\repos\\FolderMonitorService\\DMS.Shared\\DMS.DomainEvents\\Events\\DocumentReceived.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T11:21:31.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Consumer.csproj",
+              "DocumentMoniker": "D:\\Document Listener Service\\ConsumerApp\\Consumer\\Consumer.csproj",
+              "RelativeDocumentMoniker": "Consumer\\Consumer.csproj",
+              "ToolTip": "D:\\Document Listener Service\\ConsumerApp\\Consumer\\Consumer.csproj",
+              "RelativeToolTip": "Consumer\\Consumer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-02T10:59:01.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Document Listener Service\\ConsumerApp\\Consumer\\Program.cs",
+              "RelativeDocumentMoniker": "Consumer\\Program.cs",
+              "ToolTip": "D:\\Document Listener Service\\ConsumerApp\\Consumer\\Program.cs",
+              "RelativeToolTip": "Consumer\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T10:47:47.693Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1353,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

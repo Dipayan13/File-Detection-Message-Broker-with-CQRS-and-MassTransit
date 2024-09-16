@@ -1,0 +1,42 @@
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListener.Service\bin\Debug\net8.0\DocumentListener.Service.deps.json
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListener.Service\bin\Debug\net8.0\DocumentListener.Service.runtimeconfig.json
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListener.Service\bin\Debug\net8.0\DocumentListener.Service.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListener.Service\bin\Debug\net8.0\DocumentListener.Service.pdb
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListener.Service\bin\Debug\net8.0\DMS.DomainEvents.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListener.Service\bin\Debug\net8.0\DocumentListener.Data.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListener.Service\bin\Debug\net8.0\DocumentListener.Domain.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListener.Service\bin\Debug\net8.0\DMS.DomainEvents.pdb
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListener.Service\bin\Debug\net8.0\DocumentListener.Data.pdb
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListener.Service\bin\Debug\net8.0\DocumentListener.Domain.pdb
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListener.Service\obj\Debug\net8.0\DocumentListener.Service.csproj.AssemblyReference.cache
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListener.Service\obj\Debug\net8.0\DocumentListener.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListener.Service\obj\Debug\net8.0\DocumentListener.Service.AssemblyInfoInputs.cache
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListener.Service\obj\Debug\net8.0\DocumentListener.Service.AssemblyInfo.cs
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListener.Service\obj\Debug\net8.0\DocumentListener.Service.csproj.CoreCompileInputs.cache
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListener.Service\obj\Debug\net8.0\Document.8A271BD3.Up2Date
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListener.Service\obj\Debug\net8.0\DocumentListener.Service.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListener.Service\obj\Debug\net8.0\refint\DocumentListener.Service.dll
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListener.Service\obj\Debug\net8.0\DocumentListener.Service.pdb
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListener.Service\obj\Debug\net8.0\DocumentListener.Service.genruntimeconfig.cache
+C:\Users\DipayanBhattacharjee\source\repos\DocumentListenerService\DocumentListener.Service\obj\Debug\net8.0\ref\DocumentListener.Service.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListener.Service\bin\Debug\net8.0\DocumentListener.Service.deps.json
+D:\Document Listener Service\DocumentListenerService\DocumentListener.Service\bin\Debug\net8.0\DocumentListener.Service.runtimeconfig.json
+D:\Document Listener Service\DocumentListenerService\DocumentListener.Service\bin\Debug\net8.0\DocumentListener.Service.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListener.Service\bin\Debug\net8.0\DocumentListener.Service.pdb
+D:\Document Listener Service\DocumentListenerService\DocumentListener.Service\bin\Debug\net8.0\DMS.DomainEvents.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListener.Service\bin\Debug\net8.0\DocumentListener.Data.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListener.Service\bin\Debug\net8.0\DocumentListener.Domain.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListener.Service\bin\Debug\net8.0\DMS.DomainEvents.pdb
+D:\Document Listener Service\DocumentListenerService\DocumentListener.Service\bin\Debug\net8.0\DocumentListener.Data.pdb
+D:\Document Listener Service\DocumentListenerService\DocumentListener.Service\bin\Debug\net8.0\DocumentListener.Domain.pdb
+D:\Document Listener Service\DocumentListenerService\DocumentListener.Service\obj\Debug\net8.0\DocumentListener.Service.csproj.AssemblyReference.cache
+D:\Document Listener Service\DocumentListenerService\DocumentListener.Service\obj\Debug\net8.0\DocumentListener.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Document Listener Service\DocumentListenerService\DocumentListener.Service\obj\Debug\net8.0\DocumentListener.Service.AssemblyInfoInputs.cache
+D:\Document Listener Service\DocumentListenerService\DocumentListener.Service\obj\Debug\net8.0\DocumentListener.Service.AssemblyInfo.cs
+D:\Document Listener Service\DocumentListenerService\DocumentListener.Service\obj\Debug\net8.0\DocumentListener.Service.csproj.CoreCompileInputs.cache
+D:\Document Listener Service\DocumentListenerService\DocumentListener.Service\obj\Debug\net8.0\Document.8A271BD3.Up2Date
+D:\Document Listener Service\DocumentListenerService\DocumentListener.Service\obj\Debug\net8.0\DocumentListener.Service.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListener.Service\obj\Debug\net8.0\refint\DocumentListener.Service.dll
+D:\Document Listener Service\DocumentListenerService\DocumentListener.Service\obj\Debug\net8.0\DocumentListener.Service.pdb
+D:\Document Listener Service\DocumentListenerService\DocumentListener.Service\obj\Debug\net8.0\DocumentListener.Service.genruntimeconfig.cache
+D:\Document Listener Service\DocumentListenerService\DocumentListener.Service\obj\Debug\net8.0\ref\DocumentListener.Service.dll
