@@ -1,1 +1,1 @@
-# File-Detection-Message-Broker-with-CQRS-and-MassTransit
+# File-Detection-Message-Broker-in-CQRS-and-MassTransit
